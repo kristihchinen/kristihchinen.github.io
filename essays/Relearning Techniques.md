@@ -1,3 +1,11 @@
+layout: essay
+type: essay
+title: Relearning Techniques
+date: 2021-09-01
+labels:
+  - Software Engineering
+  - Leaning 
+
 Having learned Javascript last year when the pandemic was first starting
 out and we were all pushed online it was a hard language for me to
 grasp. However, learning it a second time around allows me to truly
