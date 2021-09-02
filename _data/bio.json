@@ -77,21 +77,21 @@
   ],
   "work": [
     {
-      "company": "Young's Fish Market",
-      "position": "Back of house",
+      "company": "Leeward Community College Copy Center",
+      "position": "Office Aide",
       "website": "",
-      "startDate": "2021",
+      "startDate": "2017",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+         "Troubleshoot copiers, maintain database",
+        "Answer phone and email responses to the Copy Center"
       ]
     },
     {
-      "company": "Leeward Community College Copy Center",
-      "position": "Office Aide"
-      "startDate": "2017",
+      "company": "Young's Fish Market",
+      "position": "Back of house"
+      "startDate": "2021",
       "endDate": "Present",
       "summary": "",
       "highlights": [
