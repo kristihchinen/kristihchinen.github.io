@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Relearning Techniques
-date: 2021-00-01
+date: 2021-09-01
 labels:
   - Software Engineering
   - Learning
