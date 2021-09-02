@@ -66,7 +66,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science - Cyber Security (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2020",
       "endDate": "Present",
@@ -77,10 +77,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Young's Fish Market",
+      "position": "Back of house",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -89,42 +89,28 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Leeward Community College Copy Center",
+      "position": "Office Aide"
+      "startDate": "2017",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot copiers, maintain database",
+        "Answer phone and email responses to the Copy Center"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaii Partnership To Prevent Underage Drinking",
+      "website": "http://hppud.org",
+      "position": "Youth Advisory Board Member and Youth Ambassador",
+      "startDate": "2018",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Speak and assist other speakers at trainings or workshops",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Youth speaker when speaking with Senator Brian Schatz and Senator Mazie Hirono",
+        "Sexual Violence Prevention Training speaker"
       ]
     }
   ],
