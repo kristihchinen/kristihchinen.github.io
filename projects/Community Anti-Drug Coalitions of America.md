@@ -11,7 +11,8 @@ labels:
 summary: I advocated in front of Senator Brain Schatz and Senator Mazie Hirono to fund prevention work.
 ---
 
-![IMG_6690 (1)](https://user-images.githubusercontent.com/89947305/131942175-cb9107aa-45a7-48a2-b8a5-652734fbedee.JPG)
+![IMG_6690 (1)](https://user-images.githubusercontent.com/89947305/131942327-cc2dbd5a-c5ee-4add-9895-ddbdb6b2e2e0.JPG)
+
 
 
 
