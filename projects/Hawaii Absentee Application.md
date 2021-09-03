@@ -1,3 +1,4 @@
+
 ---
 layout: project
 type: project
@@ -13,4 +14,4 @@ summary: In ICS 215 we were tasked to create an absentee ballot application that
 
 In the spring of 2020 when I took ICS 215 we needed to create an absentee ballot application using PHP which we would then need to convert it to a html file to run on Google Chrome. This application would ask you the basic questions, like, name, birthday, gender, etc. Then, once the user submits enter the previous answers would be cleared and ready for the next user.
 
-http://file:///Users/kristichinen/Documents/JavaScript/sp20_absentee_application_Chinen.html 
+<img width="1377" alt="Screen Shot 2021-09-02 at 3 14 52 PM" src="https://user-images.githubusercontent.com/89947305/131935720-0871e6f7-334f-4653-9667-f8cdd183fe0e.png">
