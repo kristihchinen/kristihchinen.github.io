@@ -17,5 +17,6 @@ This project was an individual project to test my PHP and html skills. Being tha
 
 Through this project I learned about the basics in creating a functioning html program. This project allowed me to have an insight into the different functions that could be used and how to program them correctly. I programmed the ballot to make sure for each box met each parameter indicated. If it was not met it will show an error message to the user. Overall, the absentee ballot application gave me a good foundation for coding in PHP/html. 
 
-<img width="1000" alt="Screen Shot 2021-09-02 at 3 19 21 PM" src="https://user-images.githubusercontent.com/89947305/131936192-3de13c88-bb19-444b-9fba-d277634ba43e.png">
+<img width="750" alt="Screen Shot 2021-09-02 at 3 19 21 PM" src="https://user-images.githubusercontent.com/89947305/132256315-cf95c8b0-a7e2-40b6-9ec1-a86526cdb89e.png">
+
 
