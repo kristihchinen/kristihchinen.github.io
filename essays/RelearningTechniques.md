@@ -14,7 +14,7 @@ Having learned Javascript last year when the pandemic was first starting out and
 
 **Starting From The Very Beginning**
 
-The FreeCodeCamp assignment truly helped me with learning the fundamentals rather than having us jump straight into coding. It allowed me to first get comfortable. I am and always have been a visual learner, but for a lot of classes they give big assignments that take days to complete rather than small assignments to get you familiar with content. Being given the option to constantly practice allows my brain to understand fully. Also, the breakdown of Javascript into different parts allows me to become more confident in coding which will help me to potentially create websites in the future.
+The FreeCodeCamp assignment truly helped me with learning the fundamentals rather than having us jump straight into coding. It allowed me to first get comfortable, I have always learned better with repetition and this assignment allowed me to do that. For a lot of classes they give big assignments that take days to complete rather than small assignments to get you familiar with content. I have a difficult time with that because I feel overwhelmed to the point I do not want to do the assignment and push it to the side to the very end. Being given the option to constantly practice allows my brain to understand fully. Also, the breakdown of Javascript into different parts allows me to become more confident in coding which will help me to potentially create websites in the future.
 
 **Dreading The Time**
 
