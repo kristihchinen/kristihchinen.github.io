@@ -15,9 +15,9 @@ I have always been told by teachers and adults that there are no dumb questions,
 **The Smarter Way**
 
 It is proven that if you ask your question in the smarter way people are more willing to help you. One of the questions I came across asked "How to convert a decimal to  double in C#". When the user asked the question they stated the different methods that were used and each method would throw an error. They also provided their code and the error message that appeared. With this question the people that were trying to help knew exactly what they were asking, could visualize where the problem was occurring, and knew they tried other options before asking the question.
-(https://stackoverflow.com/questions/4/how-to-convert-a-decimal-to-a-double-in-c)
+Here is the link to [StackOverFlow](https://stackoverflow.com/questions/4/how-to-convert-a-decimal-to-a-double-in-c)
 
 **Stop and Rethink That**
 
 Another question that caught my eye was "Microsoft Office 2007 File Type, Mime Types and Identifying Characters". When this user asked this question it was apparent they did not try to find the answer on their own. They were just trying to find the easy way out of doing things.
-(https://stackoverflow.com/questions/61/microsoft-office-2007-file-type-mime-types-and-identifying-characters)
+Here is the link to [StackOverFlow](https://stackoverflow.com/questions/61/microsoft-office-2007-file-type-mime-types-and-identifying-characters)
