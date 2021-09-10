@@ -19,5 +19,5 @@ Here is the link to [StackOverFlow](https://stackoverflow.com/questions/4/how-to
 
 **Stop and Rethink That**
 
-Another question that caught my eye was "Microsoft Office 2007 File Type, Mime Types and Identifying Characters". When this user asked this question it was apparent they did not try to find the answer on their own. They were just trying to find the easy way out of doing things.
+Another question that caught my eye was "Microsoft Office 2007 File Type, Mime Types and Identifying Characters". When this user asked this question it was apparent they did not try to find the answer on their own. They were just trying to find the easy way out of doing things. By doing a quick google search the user would have been able to find the answers they were looking for. 
 Here is the link to [StackOverFlow](https://stackoverflow.com/questions/61/microsoft-office-2007-file-type-mime-types-and-identifying-characters)
