@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Ballot.jpeg
-title: Hawaii Absentee Application
+title: Have You Voted Yet?
 permalink: projects/ballot
 date: 2020-04-16
 labels:
