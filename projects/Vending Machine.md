@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Snacks.jpeg
-title: Vending Machine
+title: What Is Your Favorite Snack?
 permalink: projects/snacks
 date: 2020-09-14
 labels:
