@@ -17,7 +17,7 @@ When I took ICS 215 in the spring of 2020 we needed to create an absentee ballot
 
 **My Involvement**
 
-This project was an individual project to test my PHP and html skills. Being that this was the first class that I was learning other programming languages other than java I was scared. However, I took the assignemnt apart little-by-little and slowly got it completed. I also went back and forth between the lectures to make sure I fully understood the concepts. 
+This project was an individual project to test my PHP and html skills. Being that this was the first class that I was learning other programming languages other than java I was scared. However, I took the assignment apart little-by-little and slowly got it completed. I also went back and forth between the lectures to make sure I fully understood the concepts. 
 
 **What I Learned**
 

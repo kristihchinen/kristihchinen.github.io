@@ -16,7 +16,7 @@ summary: I advocated in front of Senator Brain Schatz and Senator Mazie Hirono t
 
 **What This Project is About**
 
-Community Anti-Drug Coalitions of America is the leading substance abuse prevention organization that represents over 5,000 community based coalitions across America and in 22 countires who work to create safe, healthy and drug free communities. This organization assists communities by providing the support they need to become stronger and more effective in their prevention work. CADCA holds conferences twice a year, the first one is held every February in Washington DC. This conference is focused on meeting with the representatives and senators to talk about issues and give them an insight to what is happening at home. The second conference is usually held in June or July in different states every year. During this conference we learn different techniques other coalitions are using.
+Community Anti-Drug Coalitions of America is the leading substance abuse prevention organization that represents over 5,000 community based coalitions across America and in 22 countries who work to create safe, healthy and drug free communities. This organization assists communities by providing the support they need to become stronger and more effective in their prevention work. CADCA holds conferences twice a year, the first one is held every February in Washington DC. This conference is focused on meeting with the representatives and senators to talk about issues and give them an insight to what is happening at home. The second conference is usually held in June or July in different states every year. During this conference we learn different techniques other coalitions are using.
 
 **My Involvement**
 
@@ -24,5 +24,5 @@ I started working with HPPUD in 2018 by managing all social media accounts (Twit
 
 **What I Learned**
 
-Before joing HPPUD I never found something I was truly passionate about. When I first joined I got a lot of backlash from my friends and peers asking why I joined this organization. With going to CADCA it helped me to realize that I am not the only youth that is fighting for change. It helped me to feel comfortable with the cause I am fighting for. 
+Before joining HPPUD I never found something I was truly passionate about. When I first joined I got a lot of backlash from my friends and peers asking why I joined this organization. With going to CADCA it helped me to realize that I am not the only youth that is fighting for change. It helped me to feel comfortable with the cause I am fighting for. 
 
