@@ -10,7 +10,7 @@ labels:
 
 ## What A Rough Start
 
-Having learned Javascript last year when the pandemic was first starting out and we were all pushed online it was a hard language for me to grasp. I started to fall behind in learning the new techniques which discouraged me in becoming a programmer. However, learning it a second time around allows me to truly understand the basics of the language.
+Having learned Javascript when the pandemic was first starting out and we were all pushed online it was a hard language for me to grasp. I started to fall behind in learning the new techniques which discouraged me from continuing on in my degree pathway. However, I decided to give it another try and being able to learn it a second time around allows me to truly understand the basics of the language.
 
 ## Starting From The Very Beginning
 
@@ -18,4 +18,4 @@ The FreeCodeCamp assignment truly helped me with learning the fundamentals rathe
 
 ## Dreading The Time
 
-I was quite scared of the weekly workout of the day (WODs) because a time limit of anything always puts extra pressure on me. Then with getting tested on writing code in a certain amount of time and with the WODs being worth so many points just scared me. After going through the first WOD it helped me to realize that it is not that bad. If I just put the effort in to study every day, for a couple of hours a day I will be fine. The repetion of everything truly helps me to become more comfortable with Javascript. 
+I was quite scared of the weekly workout of the day (WODs) because a time limit of anything always puts extra pressure on me. Then with getting tested on writing code in a certain amount of time and with the WODs being worth so many points just scared me. After going through the first WOD it helped me to realize that it is not that bad. If I just put the effort in to study every day, for a couple of hours a day I will be fine. The reputation of everything truly helps me to become more comfortable with Javascript. 
