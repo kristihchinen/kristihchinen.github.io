@@ -10,7 +10,7 @@ labels:
 
 ## The Beginning 
 
-I have always wanted to help people, I just always figured it would be in health care. After volunteering at a physical therapy clinic I decided that this might not be the way I want to help people, with technology growing every year I decided to take a couple of Computer Science. I really enjoyed my classes, but the down side was we always created code that would only be useful for that class. Although that is useful I would like create a program that can be beneficial to others and has a greater impact on society as a whole.
+I have always wanted to help people, I just always figured it would be in health care. After volunteering at a physical therapy clinic I decided that this might not be the way I want to help people, with technology growing every year I decided to take a couple of Computer Science. I really enjoyed my classes, but the down side was we always created code that would only be useful for that class. Although that is useful I wanted to create something that more people would be able to benefit from and has a greater impact on society as a whole.
 
 ## Fighting The Epidemic
 
