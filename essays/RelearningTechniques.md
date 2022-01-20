@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Relearning Techniques
+title: Here we go again
 date: 2022-01-18
 labels:
   - Software Engineering
@@ -10,7 +10,7 @@ labels:
 
 ## What A Rough Start
 
-Having learned Javascript when the pandemic was first starting out and we were all pushed online it was a hard language for me to grasp. I started to fall behind in learning the new techniques which discouraged me from continuing on in my degree pathway. However, I decided to give it another try and being able to learn it a second time around allows me to truly understand the basics of the language.
+Having learned Javascript when the pandemic was first starting out and we were all pushed online it was a hard language for me to grasp. I started to fall behind in learning the new techniques which discouraged me from continuing on in my degree pathway. However, I did not want to give up and change my major again. I then started to code in other languages thinking I would never have to code in JavaScript again. Boy was I wrong, I took ICS 314 and we are being taught JavaScript. Looking back I feel that because I was taught JavaScript before taking this class it allowed me to understand a lot easier the second time around. 
 
 ## Starting From The Very Beginning
 
