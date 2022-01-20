@@ -17,7 +17,7 @@ When I took ICS 211 in the Spring of 2021 we needed to create 4 different classe
 
 **My Involvement**
 
-This was an individual project that was used to test our different skills we learned in the class thus far. This project was manageable because we needed to create one class every week to add on to the porject. 
+This was an individual project that was used to test our different skills we learned in the class thus far. This project was manageable because we needed to create one class every week to add on to the project. 
 
 **What I Learned**
 
