@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Here we go again
+title: Here We Go Again
 date: 2022-01-18
 labels:
   - Software Engineering
