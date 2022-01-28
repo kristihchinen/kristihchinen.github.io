@@ -8,4 +8,5 @@ labels:
   - Learning
   - Questions
 ---
-  
+
+There are so many subtopics that are involved when talking about computer science. 
