@@ -17,7 +17,7 @@ When I first started my coding journey, my professor would practically give me t
 
 With the different languages comes slight differences and that comes with its pros and cons. For example, when working with Underscore it was a difficult transition from always writing code with loops to not using them at all. I honestly felt overwhelmed at first because all I knew was how to write loops, then we are thrown this curve ball. However, after getting the hang of Underscore it is actually so much easier not having to deal with loops. 
 
-Going from this:
+### Going from this:
 
     totalCost(){
         let cost = 0;
@@ -27,7 +27,7 @@ Going from this:
         return cost;
     }
 
-To this: 
+### To this: 
 
     function safe(data, year){
         const entry = _.find(data,entry => entry.year == year);
