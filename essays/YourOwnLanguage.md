@@ -25,7 +25,7 @@ Going from this:
             cost += drink.price;
         }
         return cost;
-    }`
+    }
 
 To this: 
 
