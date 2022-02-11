@@ -11,7 +11,24 @@ labels:
 
 ## Where it All Started 
 
-When I first started my coding journey, my professor would practically give me the answer if I was doing something wrong. I never understood what a coding standard was until I entered my ICS 211 class. Boy was that eye opening. I practically had to work harder than the rest of the class because I needed to relearn my foundation. That is where I learned how important a coding standard was. In my previous class my professor would fix up my code and make it all nice but I never understood the reason behind it. I would then try to make my code nice like hers but I never understood the why or how until I took ICS 211.
+When I first started my coding journey, my professor would practically give me the answer if I was doing something wrong. I never understood what a coding standard was until I entered my ICS 211 class. Boy was that eye opening. I practically had to work harder than the rest of the class because I needed to relearn my foundation. That is where I learned how important a coding standard was. In my previous class my professor would fix up my code and make it all nice but I never understood the reason behind it. I would then try to make my code nice like hers but I never understood the why or how until I took ICS 211. I actually took me a while to get used to following the coding standards, but with anything, the more you do it the more comfortable you become. With the different languages comes slight differences and that comes with its pros and cons. For example, when working with Underscore it was a difficult transition from always writing code with loops to not using them at all. 
+
+Going from this:
+
+    totalCost(){
+        let cost = 0;
+        for(let drink of this.drinks){
+            cost += drink.price;
+        }
+        return cost;
+    }`
+
+To this: 
+
+    function safe(data, year){
+        const entry = _.find(data,entry => entry.year == year);
+        return entry.mean < 351;
+    }
 
 ## Creating Our Own Success 
 
