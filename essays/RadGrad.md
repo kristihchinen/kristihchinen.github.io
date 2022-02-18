@@ -14,3 +14,4 @@ While in college every student has one thing in the back of their mind, getting 
 When I first transferred to Manoa from the community college it was during the pandemic. Practically Spring of 2022 is my first time stepping foot on campus. I do not know any of the clubs that are offered or the various opportunities that are available to us. Radgrad has helped me to get a better understanding of the different opportunities. It takes my interests and goals into consideration and is able to give me a list of opportunities tailored to me. Radgrad has also helped me to plan my remaining semesters while adding in the different opportunities I can take advantage of.  
 
 # It is Rad
+Radgrad has helped me out a lot because I am able to clearly map out my future. It gives me a sense of direction and reassures me that what I am doing is best suited for me rather than doing what everyone else is doing. 
