@@ -9,7 +9,7 @@ labels:
 ---
   
 ## Trying Something New
-Before taking Software Engineering I always wondered how companies would create their websites. It never occurred to me that they would code every aspect of their finished product. 
+I have always been interested in making this nice webpage, but all I ever knew was Weebly or the pre-made webpages provided for free. Before taking Software Engineering I always wondered how companies would create their websites. It never occurred to me that they would code every aspect of their finished product.
 
 ## Making Things Pretty!
 
