@@ -9,7 +9,7 @@ labels:
 ---
   
 ## Trying Something New
-I have always been interested in making this nice webpage, but all I ever knew was Weebly or the pre-made webpages provided for free. Before taking Software Engineering I always wondered how companies would create their websites. It never occurred to me that they would code every aspect of their finished product.
+Back in middle school when we needed to design webpages for homework we would only be using Weebly or the pre-made templates that are free. When using the pre-made templates you are very limited with what you are able to do and how it will look. However, I still wanted mine to stand out among everyone else's, I just never knew how big companies did that. Then I took ICS 314 - Software Engineering and we first learned how to make basic webpages using HTML. Once we got the hang of that we were then introduced to an amazing tool called Semantic UI. It brings so much light and broadens your horizons with the look of your end product and what you are able to create.
 
 ## Making Things Pretty!
 
