@@ -22,3 +22,6 @@ After learning about design patterns I started to notice how I was implanting th
 
 ### Observer Design Pattern 
 Within our website we are using this several times. One of the times we are using this is when the user creates a profile. We have them enter their information into a form and once they submit that form they are prompted with a notification and their information will be stored with the rest of the profiles. 
+
+### Singleton Design Pattern
+In our "I'm Feeling Hungry" page this design pattern is being used. We are using the Restaurant.jsx component to randomly list one restaurant as a card on the page. 
