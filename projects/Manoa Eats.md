@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Manoa-Eats-Logo.png
 title: Manoa Eats
-permalink: projects/CADCA
+permalink: projects/Manoa-Eats
 date: 2022-05-09
 labels:
 - Final Project
