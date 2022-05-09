@@ -12,4 +12,7 @@ labels:
 - MeteorJS
   summary: Manoa Eats is a web application that will allow students and staff to find something yummy on and off campus. 
 ---
-# Manoa Eats
+<p align="center">
+<img src="images/Manoa-Eats-Logo.png">
+</p>
+
