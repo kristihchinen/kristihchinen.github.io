@@ -66,7 +66,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science - Cyber Security (expected Spring, 2022)",
+      "area": "Computer Science - Cyber Security (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2020",
       "endDate": "Present",
@@ -82,9 +82,10 @@
       "website": "",
       "startDate": "2017",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Student Worker",
       "highlights": [
-         "Troubleshoot copiers, maintain database",
+        "Troubleshoot copiers",
+        "Maintain database",
         "Cash management"
       ]
     },
@@ -92,11 +93,11 @@
       "company": "Young's Fish Market",
       "position": "Back of house",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2021",
       "summary": "",
       "highlights": [
         "Prep food that will be needed for the whole day",
-        "Answer phone and email responses to the Copy Center"
+        "Cash management"
       ]
     }
   ],
@@ -104,16 +105,27 @@
     {
       "organization": "Hawaii Partnership To Prevent Underage Drinking",
       "website": "http://hppud.org",
-      "position": "Youth Advisory Board Member and Youth Ambassador",
+      "position": "Youth Advisory Board Member, Youth Ambassador and Social Media Manager",
       "startDate": "2018",
       "endDate": "Present",
-      "summary": "Speak and assist other speakers at trainings or workshops",
+      "summary": "Educate others about the dangers of underage drinking",
       "highlights": [
         "Youth speaker when speaking with Senator Brian Schatz and Senator Mazie Hirono",
         "Sexual Violence Prevention Training speaker",
         "Manage social media accounts"
       ]
-    }
+    },
+    {
+      "organization": "Love is Respect",
+      "website": "http://loveisrepect.org",
+      "position": "Youth Council Member",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Educate others about the teen dating violence",
+      "highlights": [
+        "Participate in teen dating violence month",
+        "Create new ways to educate others about the teen dating violence"
+      ]
   ],
   "references": [
     {
