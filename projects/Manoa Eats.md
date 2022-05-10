@@ -10,7 +10,7 @@ labels:
 - MongoDB
 - Web Development
 - MeteorJS
-  summary: Manoa Eats is a web application that will allow students and staff to find something yummy on and off campus. 
+summary: Manoa Eats is a web application that will allow students and staff to find something yummy on and off campus. 
 ---
 <p align="center">
 <img src="images/Manoa-Eats-Logo.png">
