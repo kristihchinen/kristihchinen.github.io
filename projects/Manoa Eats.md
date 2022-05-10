@@ -24,6 +24,9 @@ Manoa Eats is a web application that will allow students and staff access to dif
 ![](../images/Landing-Page.png)
 When you first visit our web application you will be greeted by our landing page which will show you which restaurants are currently open.
 
+# Take Aways
+This was my first big project working with a team. It is difficult working with a lot of different personalities and work ethics. I feel our biggest challenge we needed to over come was figuring out a time we were all free. For the most part we were having small meetings on the weekends to go over our weekly tasks and we would be meeting before class to code our application. 
+
 # We're Here to Help!
 Manoa Eats is designed, implemented, and maintained by
 [Tyler Baguio](https://tylerb8.github.io), [Kristi Chinen](https://kristihchinen.github.io), [Jeraldine Milla](https://itsjerie.github.io), [Nenye Ndili](https://nenyehub.github.io), [Gavin Peng](https://devgav.github.io)
