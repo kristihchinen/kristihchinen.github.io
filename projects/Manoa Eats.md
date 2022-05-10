@@ -25,7 +25,7 @@ Manoa Eats is a web application that will allow students and staff access to dif
 When you first visit our web application you will be greeted by our landing page which will show you which restaurants are currently open.
 
 # Take Aways
-This was my first big project working with a team. It is difficult working with a lot of different personalities and work ethics. I feel our biggest challenge we needed to over come was figuring out a time we were all free. For the most part we were having small meetings on the weekends to go over our weekly tasks and we would be meeting before class to code our application. 
+This was my first big project working with a team. It is difficult working with a lot of different personalities and work ethics. I feel our biggest challenge we needed to over come was figuring out a time we were all free. We were having small meetings on the weekends through discord to go over our weekly tasks and we would be meeting before class to code our application. Thankfully Discord was invented, it made it a lot easier to have messaging and video calls all in one place. It is also so important to always communicate and plan with everyone so two people are not working on the same task. Or there are certain implementations that are unable to happen unless someone finishes their part. Using the projects tab in Github helped tremendously because we were able to see the set of tasks that needed to be finished and once a task was completed it would no longer be open. Throughout this project I was in charge of creating users and their profiles and working on our [Github.io](https://manoa-eats.github.io) page. 
 
 # We're Here to Help!
 Manoa Eats is designed, implemented, and maintained by
