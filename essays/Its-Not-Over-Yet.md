@@ -10,4 +10,8 @@ labels:
 - Design Patterns
 ---
 # It's Like Grammar
-I know we have all experienced texting someone with bad grammar and you want to bang your head on a wall. They are using "their" instead of "there" or they are using a bunch of acronyms instead of spelling out the word. 
+I know we have all experienced peer reviewing someone's paper and they have a lot of grammar mistakes. They are switching the different "theirs", run on sentences, and some sentences just don't make any sense. It makes you wonder if they took the error marks on word as a suggestion. 
+
+<img class="ui large rounded centered image" src="../images/ESLint.png.png">
+
+From elementary school till now we are constantly being reminded of proper grammar. Now with different software it is easier to catch your mistakes. In the computer world there is something similar to grammar, that is coding standards. Something to help us along this coding standard journey is ESLint. ESLint is a analysis tool that is used to identify problematic patters found in JavaScript code. 
