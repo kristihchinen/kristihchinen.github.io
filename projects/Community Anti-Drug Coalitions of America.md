@@ -8,6 +8,7 @@ date: 2019-02-03
 labels:
   - CADCA
   - Training
+  - Prevention
 summary: I advocated in front of Senator Brain Schatz and Senator Mazie Hirono to fund prevention work.
 ---
 

@@ -40,6 +40,7 @@ This was my first big project working with a team. It is difficult working with 
 Manoa Eats is designed, implemented, and maintained by
 [Tyler Baguio](https://tylerb8.github.io), [Kristi Chinen](https://kristihchinen.github.io), [Jeraldine Milla](https://itsjerie.github.io), [Nenye Ndili](https://nenyehub.github.io), [Gavin Peng](https://devgav.github.io)
 
+_Check out our [Github](https://github.com/manoa-eats/manoa-eats)_
 
 
 

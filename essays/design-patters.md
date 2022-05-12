@@ -6,6 +6,7 @@ date: 2022-04-28
 labels:
 - Software Engineering
 - Learning
+- Design patterns
 ---
 
 ## The "Recipes" of Coding
