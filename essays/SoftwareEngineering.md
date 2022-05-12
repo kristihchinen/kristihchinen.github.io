@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: I Enjoy This...
 date: 2022-01-20
+draft: true
 labels:
   - Software Engineering
   - Learning
