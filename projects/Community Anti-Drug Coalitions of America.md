@@ -15,9 +15,9 @@ summary: I advocated in front of Senator Brain Schatz and Senator Mazie Hirono t
 ![IMG_6690 (1)](https://user-images.githubusercontent.com/89947305/131943100-b52cfd2c-404d-45f9-8af7-f9204d7a754e.JPG)
 
 
-## What This Project is About
+## Overview
 
-Community Anti-Drug Coalitions of America is the leading substance abuse prevention organization that represents over 5,000 community based coalitions across America and in 22 countries who work to create safe, healthy and drug free communities. This organization assists communities by providing the support they need to become stronger and more effective in their prevention work. CADCA holds conferences twice a year, the first one is held every February in Washington DC. This conference is focused on meeting with the representatives and senators to talk about issues and give them an insight to what is happening at home. The second conference is usually held in June or July in different states every year. During this conference we learn different techniques other coalitions are using.
+Community Anti-Drug Coalitions of America (CADCA) is the leading substance abuse prevention organization that represents over 5,000 community based coalitions across America and in 22 countries who work to create safe, healthy and drug free communities. This organization assists communities by providing the support they need to become stronger and more effective in their prevention work. CADCA holds conferences twice a year, the first one is held every February in Washington DC. This conference is focused on meeting with the representatives and senators to talk about issues and give them an insight to what is happening at home. The second conference is usually held in June or July in different states every year. During this conference we learn different techniques other coalitions are using or techniques CADCA is finding useful. The second conference is meant more as a training and getting to know other people from the different coalitions. 
 
 ## My Involvement
 
