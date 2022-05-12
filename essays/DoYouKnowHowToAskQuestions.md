@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: There is Such Thing as a "Dumb" Question
 date: 2022-01-27
+draft: true
 labels:
   - Software Engineering
   - Learning
