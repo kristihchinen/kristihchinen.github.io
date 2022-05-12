@@ -6,11 +6,13 @@ date: 2022-01-18
 labels:
   - Software Engineering
   - Learning
+  - Javascript
+  - FreeCodeCamp
 ---
 
 ## What A Rough Start
 
-Having learned Javascript when the pandemic was first starting out and we were all pushed online it was a hard language for me to grasp. I started to fall behind in learning the new techniques which discouraged me from continuing on in my degree pathway. However, I did not want to give up and change my major again. I then started to code in other languages thinking I would never have to code in JavaScript again. Boy was I wrong, I took ICS 314 and we are being taught JavaScript. Looking back I feel that because I was taught JavaScript before taking this class it allowed me to understand a lot easier the second time around.
+Before actually choosing the major I wanted to declare I tried 2 different majors. After volunteering for the different jobs and taking a couple classes within the majors, I decided that it was not for me. One night I decided that I was going to major in Computer Science and not look back. Then, the pandemic hit. Having to switch to online in the middle of learning Javascript eventually made it a hard language for me to grasp. I started to fall behind in learning the new techniques which discouraged me from continuing on in my degree pathway. However, I did not want to give up and change my major again. I then started to code in other languages which were easier for me. It got me thinking I would never have to code in JavaScript again. Boy was I wrong, I met my enemy once again in ICS 314. Learning it a second time around was not as bad as I remember it being. Looking back I feel that because I was taught JavaScript before taking this class it allowed me to understand a lot easier the second time around.
 
 ## Starting From The Very Beginning
 
