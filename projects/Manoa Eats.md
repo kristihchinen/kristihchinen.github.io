@@ -12,7 +12,9 @@ labels:
 - MeteorJS
 summary: Manoa Eats is a web application that will allow students and staff to find something yummy on and off campus. 
 ---
-![](../images/Manoa-Eats-Logo.png)
+<p align="center">
+<img src="Manoa-Eats-Logo.png"
+</p>
 
 # Overview
 Do you ever find yourself always eating at the same places and always wanting to try something new? Well you are not alone, not many students know about all of our fine dish eateries on the UH Manoa campus. In addition, some students who want to try new restaurants may not get a chance to because they may have time conflicts with their schedule leaving some restaurants having either too many students in line or not enough students.
