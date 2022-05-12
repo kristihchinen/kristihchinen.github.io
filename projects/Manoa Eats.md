@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Manoa-Eats-Logo.png
+image: images/Manoa-Eats-Logo2.png
 title: Manoa Eats
 permalink: projects/Manoa-Eats
 date: 2022-05-09
