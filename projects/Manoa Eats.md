@@ -13,7 +13,7 @@ labels:
 summary: Manoa Eats is a web application that will allow students and staff to find something yummy on and off campus. 
 ---
 <p align="center">
-<img src="Manoa-Eats-Logo.png"
+<img src="Manoa-Eats-Logo.png">
 </p>
 
 # Overview
