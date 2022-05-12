@@ -5,6 +5,7 @@ image: images/Snacks.jpeg
 title: What Is Your Favorite Snack?
 permalink: projects/snacks
 date: 2020-09-14
+draft: true
 labels:
   - Java
   - JGrasp
