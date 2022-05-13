@@ -17,11 +17,11 @@ summary: Manoa Eats is a web application that will allow students and staff to f
 </p>
 
 # Overview
-Do you ever find yourself always eating at the same places and always wanting to try something new? Or are you someone who want to try new restaurants but never get a chance to because they may have time conflicts with your schedule? Well you are not alone, not many students know about all of our fine dish eateries on the UH Manoa campus. 
+Do you ever find yourself always eating at the same places and always wanting to try something new? Or are you someone who want to try new restaurants but never get a chance to because they have time conflicts with your schedule? Well you are not alone, not many students know about all of our fine dish eateries on and off the UH Manoa campus. 
 
 Not to worry, [Manoa Eats](https://manoa-eats.xyz/#/) is here to help! 
 
-Manoa Eats is a web application that will allow students and staff access to different eateries in and around campus. Manoa Eats will allow hardworking students to nourish their brain's with UH's nutritious foods. 
+Manoa Eats is a web application that will allow students and staff access to different eateries information in and around campus. Manoa Eats will allow hardworking students to nourish their brain's with UH's nutritious foods. 
 
 ![](../images/Landing-Page.png)
 When you first visit our web application you will be greeted by our landing page which will show you which restaurants are currently open.
