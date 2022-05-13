@@ -17,7 +17,7 @@ summary: Manoa Eats is a web application that will allow students and staff to f
 </p>
 
 # Overview
-Do you ever find yourself always eating at the same places and always wanting to try something new? Well you are not alone, not many students know about all of our fine dish eateries on the UH Manoa campus. In addition, some students who want to try new restaurants may not get a chance to because they may have time conflicts with their schedule leaving some restaurants having either too many students in line or not enough students.
+Do you ever find yourself always eating at the same places and always wanting to try something new? Or are you someone who want to try new restaurants but never get a chance to because they may have time conflicts with your schedule? Well you are not alone, not many students know about all of our fine dish eateries on the UH Manoa campus. 
 
 Not to worry, [Manoa Eats](https://manoa-eats.xyz/#/) is here to help! 
 
